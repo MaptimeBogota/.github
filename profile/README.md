@@ -11,7 +11,7 @@ MaptimeBogota es un grupo de voluntarios que contriube al mapa OpenStreetMap. Aq
   * Modelo de importación de edificios del IGAC en OSM pasando por QGIS.
   * Ejemplos de mapeo de ciclovía.
   * Generación de imagery a partir de vuelo de drones.
-* [tagInfo projects]([https://github.com/MaptimeBogota/Varios](https://github.com/MaptimeBogota/taginfo-projects) - Incluir el proyectyo de ciclovías en TagInfo mostrando las etiquetas usadas.
+* [tagInfo projects](https://github.com/MaptimeBogota/taginfo-projects) - Incluir el proyectyo de ciclovías en TagInfo mostrando las etiquetas usadas.
 * [OSM Community index](https://github.com/MaptimeBogota/osm-community-index) - Información de MaptimeBogota en el índice de comunidades.
 * [Editor Layer index](https://github.com/MaptimeBogota/editor-layer-index) - Conjunto de capas disponibles en Colombia para ser usadas iD.
 * [OSM Welcome tool](https://github.com/MaptimeBogota/osm-welcome-tool) - Mensaje de bienvenida usado en la herramienta para saludar a nuevos contribuidores.
