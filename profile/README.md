@@ -6,8 +6,7 @@ MaptimeBogota es un grupo de voluntarios que contriube al mapa OpenStreetMap. Aq
 
 * [ColombianJosmValidator](https://github.com/MaptimeBogota/ColombianJosmValidator) - Validador de JOSM específico para Colombia. Contiene elementos para validar etiquetas, tipologìa de vías, nombres.
 * [Meetups](https://github.com/MaptimeBogota/MeetUps) - Archivos propios de los eventos que hemos realizado.
-* [Validador de ciclovías](https://github.com/MaptimeBogota/ciclovias) - Descarga los segmentos de ciclovías y restricciones, comparando con una versión previa. Permite identificar cambios erróneos.
-* [Validador de vías en construcción](https://github.com/MaptimeBogota/ViasEnConstruccion) - Descarga las vías que están en construcción y detecta las que ya dejaron de estar en construcción. Esto permite mejorar el mapeo en dichas zonas.
+* [Rastreador de cambios en elementos de OSM](https://github.com/MaptimeBogota/OSM-elements-change-tracker).
 * [Docs drone](https://github.com/MaptimeBogota/docsDrone) - Conjunto de documentos para volar un dron en Colombia con todos los elementos legales.
 * [Varios](https://github.com/MaptimeBogota/Varios) - Archivos varios que se han usado en MaptimeBogota:
   * Modelo de importación de edificios del IGAC en OSM pasando por QGIS.
